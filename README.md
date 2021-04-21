@@ -1,6 +1,6 @@
 # Olá, sou a Carolina! :)
 
-Técnica em informática; Desenvolvimento web e Desktops; Organizadora da comunidade e plataforma livre Dados Livres - Projeto colaborativo e dísponivel como software livre.
+Técnica em informática; Desenvolvimento web e Desktops; Organizadora da comunidade e plataforma web Dados Livres - Projeto colaborativo sobre dados abertos e controle social, dísponivel como software livre.
 
 [![Telegram Badge](https://img.shields.io/badge/-carols0-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/carols0)](https://t.me/carols0)
 [![Linkedin Badge](https://img.shields.io/badge/-mariacarolinass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-carolinass/)](https://www.linkedin.com/in/maria-carolinass/)
