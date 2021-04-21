@@ -9,6 +9,7 @@ Técnica em informática; Desenvolvimento web e Desktops; Organizadora da comuni
 ## Tecnologias e ferramentas 
 
 [![GitLab Badge](https://img.shields.io/badge/-mariacarolinass-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/mariacarolinass)](https://gitlab.com/mariacarolinass)
+[![GitLab Badge](https://img.shields.io/badge/-dadoslivres-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/dados-livres/dados-livres)](https://gitlab.com/dados-livres/dados-livres)
 [![GitHub Badge](https://img.shields.io/badge/mariacarolinass-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mariacarolinass)](https://github.com/mariacarolinass)
 ![GitLab Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GitLab Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
