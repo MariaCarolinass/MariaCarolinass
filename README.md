@@ -37,3 +37,12 @@ No IFRN, continuei como pesquisadora do Dados Livres de 2020 até o final de mar
 :mortar_board:. O projeto vem sendo continuado e recebendo colaborações. Um de seus resultados é a comunidade Dados Livres no Telegram com mais de 87 membros :speech_balloon:. A plataforma foi divulgada por mim em feiras científicas como a Feira Brasileira de Ciência e Engenharia - Febrace e eventos de tecnologia como a Campus Party Natal 2 :busts_in_silhouette:.
 
 O desenvolvimento da plataforma Dados Livres foi idealizada por mim e consegui lançá-la em versão beta ao público. Desenvolver este projeto me possibilitou uma grande experiência com desenvolvimento web e aprendizagem sobre a cultura do conhecimento aberto e filosofia software livre :pushpin:. Por fim, em 2020 fui selecionada para participar do programa o Youth Brasil do Comitê Gestor da Internet no Brasil (CGI.br). O programa incentiva jovens a participar de discussões sobre Governança da Internet :notebook: e em resultado, consegui uma bolsa para participar do Fórum da Internet no Brasil que aconteceu no mesmo ano em Natal/RN.
+
+## Notícias
+
+As notícias a seguir foram divulgadas no portal do IFRN e citam meu nome e o projeto Dados Livres:
+
+- [Aluna do Campus Ceará-Mirim é selecionada para próxima etapa do Youth Brasil](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/aluna-do-campus-ceara-mirim-e-selecionada-com-seu-projeto-no-youth-brasil/)
+- [3 Trabalhos do Campus Ceará-Mirim são premiados na SCTZN](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/3-trabalhos-do-campus-ceara-mirim-sao-premiados-na-sctzn)
+- [Nove equipes do IFRN são finalistas em feira de ciências da USP](https://portal.ifrn.edu.br/campus/reitoria/noticias/nove-equipes-do-ifrn-sao-finalistas-na-feira-brasileira-de-ciencia-e-engenharia)
+- [Projetos do Campus Ceará-Mirim disputam etapa final da FEBRACE 2021](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/projetos-do-campus-ceara-mirim-disputam-etapa-final)
