@@ -40,7 +40,7 @@ O desenvolvimento da plataforma Dados Livres foi idealizada por mim e consegui l
 
 ## Notícias
 
-As notícias a seguir foram divulgadas no portal do IFRN e citam meu nome e o projeto Dados Livres:
+As notícias a seguir foram divulgadas no portal do IFRN, citam meu nome e o projeto Dados Livres:
 
 - [Aluna do Campus Ceará-Mirim é selecionada para próxima etapa do Youth Brasil](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/aluna-do-campus-ceara-mirim-e-selecionada-com-seu-projeto-no-youth-brasil/)
 - [3 Trabalhos do Campus Ceará-Mirim são premiados na SCTZN](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/3-trabalhos-do-campus-ceara-mirim-sao-premiados-na-sctzn)
