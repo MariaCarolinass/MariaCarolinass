@@ -15,7 +15,8 @@
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
-- 📌 Desenvolvedora full stack (sei um pouco de cada)
+- 📌 Desenvolvedora full stack
+  - Lógica de programação  
   - Programação Orientada a Objetos (POO)
   - Redes de computadores
   - Manutenção de computadores
