@@ -50,11 +50,10 @@
 - [Telegram](https://t.me/carols0)
 - :email: [m.carolina.soares1@gmail.com](mailto:m.carolina.soares1@gmail.com)
 
-## Notícias
-
-As notícias a seguir foram divulgadas no portal do IFRN, citam meu nome e o projeto Dados Livres:
+## Destaques
 
 - [Aluna do Campus Ceará-Mirim é selecionada para próxima etapa do Youth Brasil](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/aluna-do-campus-ceara-mirim-e-selecionada-com-seu-projeto-no-youth-brasil/)
 - [3 Trabalhos do Campus Ceará-Mirim são premiados na SCTZN](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/3-trabalhos-do-campus-ceara-mirim-sao-premiados-na-sctzn)
 - [Nove equipes do IFRN são finalistas em feira de ciências da USP](https://portal.ifrn.edu.br/campus/reitoria/noticias/nove-equipes-do-ifrn-sao-finalistas-na-feira-brasileira-de-ciencia-e-engenharia)
 - [Projetos do Campus Ceará-Mirim disputam etapa final da FEBRACE 2021](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/projetos-do-campus-ceara-mirim-disputam-etapa-final)
+- [Resumo do Dados Livres publicado em anais da 19ª Feira Brasileira de Ciências e Engenharia - Febrace](https://issuu.com/febrace/docs/anais_febrace2021_v4/254)
