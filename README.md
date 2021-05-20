@@ -33,9 +33,9 @@
   - [Disponibilizado como software livre](https://gitlab.com/dados-livres/dados-livres/-/blob/master/LICENSE)
   - [Código do projeto - GitLab](https://gitlab.com/dados-livres/dados-livres)
   - [Comunidade Dados Livres no Telegram](https://t.me/dadoslivres) 
-    - Organizo encontros com os membros do grupo uma vez por mês
+    - Organizo os encontros com os membros do grupo uma vez por mês
 - :busts_in_silhouette: [Programa Youth Brasil](https://forumdainternet.cgi.br/youth/)
-  - Participei do estudo dirigido sobre Governança da Internet (2020)
+  - Fiz parte do estudo dirigido sobre Governança da Internet (2020)
   - Fui selecionada para abri uma sessão de workshop no [Fórum da Internet no Brasil (FIB10)](https://forumdainternet.cgi.br/) (2020)
 - :microphone: Palestrei pela 1ª vez na [Campus Party Natal 2](https://brasil.campus-party.org/campus-party-natal-2019/call-for-talks/) (2019)
   - Tema: [Importância dos dados abertos governamentais e seus aplicativos resultantes](https://docs.google.com/presentation/d/15C_phJNlLOTDPw3mGUlqlZ5dIyjPILr7MZpSTudOiVQ/edit?usp=sharing)
@@ -45,7 +45,7 @@
 - [Lattes](http://lattes.cnpq.br/6974672214769714)
 - [GitHub](https://github.com/MariaCarolinass)
 - [GitLab](https://gitlab.com/mariacarolinass)
-- [Linkedin](https://www.linkedin.com/in/maria-carolinass/)
+- [LinkedIn](https://www.linkedin.com/in/maria-carolinass/)
 - [YouTube](https://www.youtube.com/channel/UCt9RvViwysLrjLGmwYEem2g)
 - [Telegram](https://t.me/carols0)
 - :email: [m.carolina.soares1@gmail.com](mailto:m.carolina.soares1@gmail.com)
