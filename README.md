@@ -42,10 +42,13 @@
 
 ## Links
 
-[![Telegram Badge](https://img.shields.io/badge/-carols0-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/carols0)](https://t.me/carols0)
-[![Linkedin Badge](https://img.shields.io/badge/-mariacarolinass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-carolinass/)](https://www.linkedin.com/in/maria-carolinass/)
-[![Gmail Badge](https://img.shields.io/badge/-m.carolina.soares1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.carolina.soares1@gmail.com)](mailto:m.carolina.soares1@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/-carolinasoares-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCt9RvViwysLrjLGmwYEem2g)](https://www.youtube.com/channel/UCt9RvViwysLrjLGmwYEem2g)
+- [Lattes](http://lattes.cnpq.br/6974672214769714)
+- [GitHub](https://github.com/MariaCarolinass)
+- [GitLab](https://gitlab.com/mariacarolinass)
+- [Linkedin](https://www.linkedin.com/in/maria-carolinass/)
+- [YouTube](https://www.youtube.com/channel/UCt9RvViwysLrjLGmwYEem2g)
+- [Telegram](https://t.me/carols0)
+- :email: [m.carolina.soares1@gmail.com](mailto:m.carolina.soares1@gmail.com)
 
 ## Notícias
 
