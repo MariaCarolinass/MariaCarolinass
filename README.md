@@ -1,4 +1,4 @@
-# Olá, sou a Carolina! :)
+# Olá, sou a Carolina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42px" style="max-width:100%;">
 
 Técnica em informática; Desenvolvimento web e Desktops; Organizadora da comunidade e plataforma web Dados Livres - Projeto colaborativo sobre dados abertos e controle social, com código disponibilizado como software livre sob licença GPL-v3.
 
