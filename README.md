@@ -28,7 +28,7 @@
   - Temas abordados: dados abertos, governo transparente, controle social, inovação cívica, cultura software livre e desenvolvimento web
 - :computer: [Dados Livres](https://dadoslivres.pythonanywhere.com/)
   - Plataforma livre para catalogação de fontes de dados abertos e aplicações cívicas por meio de colaboração coletiva
-  - Idealizado o desenvolvimento por mim
+  - Desenvolvimento da plataforma idealizado por mim
   - Desenvolvido com a linguagem de programação Python e microframework Flask
   - [Disponibilizado como software livre](https://gitlab.com/dados-livres/dados-livres/-/blob/master/LICENSE)
   - [Código do projeto - GitLab](https://gitlab.com/dados-livres/dados-livres)
@@ -36,9 +36,9 @@
     - Organizo encontros com os membros do grupo uma vez por mês
 - :busts_in_silhouette: [Programa Youth Brasil](https://forumdainternet.cgi.br/youth/)
   - Participei do estudo dirigido sobre Governança da Internet (2020)
-  - Fui selecionada para participar do [Fórum da Internet no Brasil (FIB10)](https://forumdainternet.cgi.br/) e abri uma sessão de workshop no evento (2020)
+  - Fui selecionada para abri uma sessão de workshop no [Fórum da Internet no Brasil (FIB10)](https://forumdainternet.cgi.br/) (2020)
 - :microphone: Palestrei pela 1ª vez na [Campus Party Natal 2](https://brasil.campus-party.org/campus-party-natal-2019/call-for-talks/) (2019)
-  - [Importância dos dados abertos governamentais e seus aplicativos resultantes](https://docs.google.com/presentation/d/15C_phJNlLOTDPw3mGUlqlZ5dIyjPILr7MZpSTudOiVQ/edit?usp=sharing)
+  - Tema: [Importância dos dados abertos governamentais e seus aplicativos resultantes](https://docs.google.com/presentation/d/15C_phJNlLOTDPw3mGUlqlZ5dIyjPILr7MZpSTudOiVQ/edit?usp=sharing)
 
 ## Links
 
