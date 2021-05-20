@@ -16,13 +16,13 @@
 ![Linux Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 - 📌 Desenvolvedora full stack
+- :mortar_board: Técnica em informática - IFRN
   - Lógica de programação  
   - Programação Orientada a Objetos (POO)
+  - Banco de dados
   - Redes de computadores
   - Manutenção de computadores
-  - Banco de dados
-  - Deploy
-- :mortar_board: Técnica em informática - IFRN
+  - Sistemas operacionais
 - :memo: Pesquisadora em 2019 (bolsista) e 2020 - IFRN
 - Projeto de pesquisa e trabalho de conclusão de curso (TCC):
   - Dados Livres: plataforma livre de dados abertos
