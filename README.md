@@ -1,30 +1,50 @@
 # Olá, sou a Carolina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42px" style="max-width:100%;">
 
-Técnica em informática; Desenvolvimento web e Desktops; Organizadora da comunidade e plataforma web Dados Livres - Projeto colaborativo sobre dados abertos e controle social, com código disponibilizado como software livre sob licença GPL-v3.
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScipt Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+
+- 📌 Desenvolvedora full stack (sei um pouco de cada)
+  - Programação Orientada a Objetos (POO)
+  - Redes de computadores
+  - Manutenção de computadores
+  - Banco de dados
+  - Deploy
+- :mortar_board: Técnica em informática - IFRN
+- :memo: Pesquisadora em 2019 (bolsista) e 2020 - IFRN
+- Projeto de pesquisa e trabalho de conclusão de curso (TCC):
+  - Dados Livres: plataforma livre de dados abertos
+  - Temas abordados: dados abertos, governo transparente, controle social, inovação cívica, cultura software livre e desenvolvimento web
+- :computer: [Dados Livres](https://dadoslivres.pythonanywhere.com/)
+  - Plataforma livre para catalogação de fontes de dados abertos e aplicações cívicas por meio de colaboração coletiva
+  - Idealizado o desenvolvimento por mim
+  - Desenvolvido com a linguagem de programação Python e microframework Flask
+  - Disponibilizado como software livre
+  - [Código do projeto - GitLab](https://gitlab.com/dados-livres/dados-livres)
+  - [Comunidade Dados Livres no Telegram](https://t.me/dadoslivres) 
+    - Organizo encontros com os membros do grupo uma vez por mês
+- :busts_in_silhouette: Programa Youth Brasil
+  - Participei do estudo dirigido sobre Governança da Internet (2020)
+  - Fui selecionada para participar do Fórum da Internet no Brasil (FIB10) e abri uma sessão de workshop no evento (2020)
+- :microphone: Palestrei pela 1ª vez na Campus Party Natal 2 (2019)
+  - Importância dos dados abertos governamentais e seus aplicativos resultantes
+
+## Links
 
 [![Telegram Badge](https://img.shields.io/badge/-carols0-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/carols0)](https://t.me/carols0)
 [![Linkedin Badge](https://img.shields.io/badge/-mariacarolinass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-carolinass/)](https://www.linkedin.com/in/maria-carolinass/)
 [![Gmail Badge](https://img.shields.io/badge/-m.carolina.soares1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.carolina.soares1@gmail.com)](mailto:m.carolina.soares1@gmail.com)
-
-## Tecnologias e ferramentas 
-
-[![GitLab Badge](https://img.shields.io/badge/-mariacarolinass-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/mariacarolinass)](https://gitlab.com/mariacarolinass)
-[![GitLab Badge](https://img.shields.io/badge/-dadoslivres-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/dados-livres/dados-livres)](https://gitlab.com/dados-livres/dados-livres)
-[![GitHub Badge](https://img.shields.io/badge/mariacarolinass-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mariacarolinass)](https://github.com/mariacarolinass)
-![GitLab Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GitLab Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Streaming
-
 [![YouTube Badge](https://img.shields.io/badge/-carolinasoares-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCt9RvViwysLrjLGmwYEem2g)](https://www.youtube.com/channel/UCt9RvViwysLrjLGmwYEem2g)
 
 ## Sobre mim
