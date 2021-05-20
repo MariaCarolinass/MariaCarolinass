@@ -30,15 +30,15 @@
   - Plataforma livre para catalogação de fontes de dados abertos e aplicações cívicas por meio de colaboração coletiva
   - Idealizado o desenvolvimento por mim
   - Desenvolvido com a linguagem de programação Python e microframework Flask
-  - Disponibilizado como software livre
+  - [Disponibilizado como software livre](https://gitlab.com/dados-livres/dados-livres/-/blob/master/LICENSE)
   - [Código do projeto - GitLab](https://gitlab.com/dados-livres/dados-livres)
   - [Comunidade Dados Livres no Telegram](https://t.me/dadoslivres) 
     - Organizo encontros com os membros do grupo uma vez por mês
-- :busts_in_silhouette: Programa Youth Brasil
+- :busts_in_silhouette: [Programa Youth Brasil](https://forumdainternet.cgi.br/youth/)
   - Participei do estudo dirigido sobre Governança da Internet (2020)
-  - Fui selecionada para participar do Fórum da Internet no Brasil (FIB10) e abri uma sessão de workshop no evento (2020)
-- :microphone: Palestrei pela 1ª vez na Campus Party Natal 2 (2019)
-  - Importância dos dados abertos governamentais e seus aplicativos resultantes
+  - Fui selecionada para participar do [Fórum da Internet no Brasil (FIB10)](https://forumdainternet.cgi.br/) e abri uma sessão de workshop no evento (2020)
+- :microphone: Palestrei pela 1ª vez na [Campus Party Natal 2](https://brasil.campus-party.org/campus-party-natal-2019/call-for-talks/) (2019)
+  - [Importância dos dados abertos governamentais e seus aplicativos resultantes](https://docs.google.com/presentation/d/15C_phJNlLOTDPw3mGUlqlZ5dIyjPILr7MZpSTudOiVQ/edit?usp=sharing)
 
 ## Links
 
@@ -57,3 +57,4 @@
 - [Nove equipes do IFRN são finalistas em feira de ciências da USP](https://portal.ifrn.edu.br/campus/reitoria/noticias/nove-equipes-do-ifrn-sao-finalistas-na-feira-brasileira-de-ciencia-e-engenharia)
 - [Projetos do Campus Ceará-Mirim disputam etapa final da FEBRACE 2021](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/projetos-do-campus-ceara-mirim-disputam-etapa-final)
 - [Resumo do Dados Livres publicado em anais da 19ª Feira Brasileira de Ciências e Engenharia - Febrace](https://issuu.com/febrace/docs/anais_febrace2021_v4/254)
+- [Artigo Dados Livres - 2019](https://raw.githubusercontent.com/ybr4ig/ybr4ig.github.io/master/recursos/pdf/artigo-dadoslivres.pdf)
