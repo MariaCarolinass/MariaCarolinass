@@ -43,6 +43,7 @@
 
 ## Links
 
+- [Currículo](https://docs.google.com/document/d/1hWzcYgvX4P81u11HjcHGYWx_NcxJ4NjpiWkZjCCy2L0/edit?usp=sharing)
 - [Lattes](http://lattes.cnpq.br/6974672214769714)
 - [GitHub](https://github.com/MariaCarolinass)
 - [GitLab](https://gitlab.com/mariacarolinass)
