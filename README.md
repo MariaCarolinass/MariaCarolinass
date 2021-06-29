@@ -39,7 +39,7 @@
   - Fiz parte do estudo dirigido sobre Governança da Internet (2020)
   - Fui selecionada para abri uma sessão de workshop no [Fórum da Internet no Brasil (FIB10)](https://forumdainternet.cgi.br/) (2020)
 - :microphone: Palestrei pela 1ª vez na [Campus Party Natal 2](https://brasil.campus-party.org/campus-party-natal-2019/call-for-talks/) (2019)
-  - Tema: [Importância dos dados abertos governamentais e seus aplicativos resultantes](https://docs.google.com/presentation/d/15C_phJNlLOTDPw3mGUlqlZ5dIyjPILr7MZpSTudOiVQ/edit?usp=sharing)
+  - Tema: [Importância dos dados abertos governamentais e seus aplicativos resultantes](https://docs.google.com/presentation/d/1evYgzZDSLubSYaPN2jHzi1w2nohIGpHoN43pB-3cGgg/edit?usp=sharing)
 
 ## Links
 
