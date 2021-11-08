@@ -54,10 +54,11 @@
 
 ## Destaques
 
+- [Artigo Dados Livres - 2019](https://raw.githubusercontent.com/ybr4ig/ybr4ig.github.io/master/recursos/pdf/artigo-dadoslivres.pdf) 
 - [Aluna do Campus Ceará-Mirim é selecionada para próxima etapa do Youth Brasil](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/aluna-do-campus-ceara-mirim-e-selecionada-com-seu-projeto-no-youth-brasil/)
 - [3 Trabalhos do Campus Ceará-Mirim são premiados na SCTZN](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/3-trabalhos-do-campus-ceara-mirim-sao-premiados-na-sctzn)
 - [Apresentações de Trabalhos - Segundo dia (15/10) - SertãoComp2020](https://youtu.be/NpRSPhvXuYY?t=1128)
 - [Nove equipes do IFRN são finalistas em feira de ciências da USP](https://portal.ifrn.edu.br/campus/reitoria/noticias/nove-equipes-do-ifrn-sao-finalistas-na-feira-brasileira-de-ciencia-e-engenharia)
 - [Projetos do Campus Ceará-Mirim disputam etapa final da FEBRACE 2021](https://portal.ifrn.edu.br/campus/ceara-mirim/noticias/projetos-do-campus-ceara-mirim-disputam-etapa-final)
 - [Resumo do Dados Livres publicado em anais da 19ª Feira Brasileira de Ciências e Engenharia - Febrace](https://issuu.com/febrace/docs/anais_febrace2021_v4/254)
-- [Artigo Dados Livres - 2019](https://raw.githubusercontent.com/ybr4ig/ybr4ig.github.io/master/recursos/pdf/artigo-dadoslivres.pdf)
+- [Artigo do Dados Livres publicado no Anais do I Encontro de Computação do Sertão](http://editora.ifpb.edu.br/index.php/ifpb/catalog/book/407)
