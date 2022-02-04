@@ -6,7 +6,7 @@ O Dados Livres garantiu minha aprovação com nota máxima no trabalho de conclu
 
 Se desejar, fale comigo pelo [Telegram](https://t.me/carols0).
 
-## Acesse o meu site!
+## Acesse o meu site
 
 Informações sobre mim, palestras, projetos, vídeos e postagens.
 
