@@ -1,4 +1,4 @@
-# Olá, eu me chamo Carolina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42px" style="max-width:100%;">
+# Olá, eu sou a Carolina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42px" style="max-width:100%;">
 
 Técnica em informática pelo Instituto Federal do Rio Grande do Norte (IFRN). Ao longo de meus dois últimos anos na instituição fiz pesquisa científica com o projeto Dados Livres: plataforma livre de dados abertos. Estudei as principais tecnologias do projeto Python e Flask, buscando aprender sobre desenvolvimento web e como os dados abertos poderiam ser importantes para qualquer pessoa.
 
