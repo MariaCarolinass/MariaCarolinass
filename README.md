@@ -1,5 +1,3 @@
-[![@mariacarolinass's Holopin board](https://holopin.me/mariacarolinass)](https://holopin.io/@mariacarolinass)
-
 # Hello, i'm Carolina!
 
 Learn more about me, talks, projects, videos and posts:
