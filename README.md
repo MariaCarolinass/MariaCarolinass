@@ -1,4 +1,4 @@
-# Hello, i'm Carolina!
+# Hello, I'm Carolina!
 
 Learn more about me, talks, projects, videos and posts:
 
