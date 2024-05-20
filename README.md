@@ -1,11 +1,12 @@
-# Hello, I'm Carolina!
+Hi, I’m Carolina.
 
-Learn more about me, talks, projects, videos and posts:
+I am an IT technician at @IFRN. Founder of dadoslivres.org. I work as a software developer in Java. I am pursuing a bachelor's degree in Science and Technology at @UFRN. Future software engineer. I am a promoter of open knowledge and free software. My main skills are in software project management, back-end development, and database modeling. Other languages I program in are Python and JavaScript. 
 
-[https://mariacarolinass.github.io/carolinasoares/](https://mariacarolinass.github.io/carolinasoares/)
+#science #society #computing
 
 ## Where to find me
 
+- [Personal Website](https://mariacarolinass.github.io/carolinasoares/)
 - [Telegram](https://t.me/carols0)
 - [LinkedIn](https://www.linkedin.com/in/maria-carolinass/)
 - [GitHub](https://github.com/MariaCarolinass)
