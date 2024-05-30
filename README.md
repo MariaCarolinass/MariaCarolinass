@@ -11,6 +11,7 @@
 - Participei por 2 anos do programa Youth Brasil do CGI.br em parceria com o NIC.br.
 - Desenvolvedora com foco em Back-End, mas conheço um pouco de Front-End.
 - Tenho 2 anos de experiência trabalhando principalmente com Java, Spring Boot, JPA Hibernate e PostgreSQL.
-- Também tenho experiência em JavaScript, WordPress e Bootstrap. Gosto de buscar novos conhecimentos e de compartilhá-los.
+- Também tenho experiência em JavaScript, WordPress e Bootstrap, além de outros conhecimentos como Linux, Git e Docker.
+- Gosto de buscar novos conhecimentos e de compartilhá-los.
 - Crio palestras como a Importância dos Dados Abertos e suas Tecnologias Resultantes, um trabalho apresentado em eventos importantes da TI como a Python Nordeste.
 - Atualmente, estou com um projeto de lança aulas de Python para iniciantes.
