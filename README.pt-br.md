@@ -1,6 +1,6 @@
 # Olá, eu sou a Carol! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou uma apaixonada **Desenvolvedora de Software** envolvida em **iniciativas de conhecimento aberto e software livre**. Minha missão é criar soluções inovadoras. Atualmente, estou cursando **Bacharelado em Ciências e Tecnologia** com ênfase em **Computação Aplicada**.
+Bem-vindo ao meu perfil do GitHub! Sou uma apaixonada **Desenvolvedora de Software** envolvida em **iniciativas de conhecimento aberto e software livre**. Atualmente, estou cursando **Bacharelado em Ciências e Tecnologia** com ênfase em **Computação Aplicada**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
