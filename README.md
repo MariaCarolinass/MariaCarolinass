@@ -6,7 +6,7 @@
 
 <!--![Banner](https://your-banner-url.com)--> 
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** involved in **open knowledge and free software initiatives**. My mission is to create innovative solutions. Currently, I am pursuing a **Bachelor's degree in Science and Technology** with an emphasis on **Applied Computing**.
+Welcome to my GitHub profile! I'm a passionate **Software Developer** involved in **open knowledge and free software initiatives**. Currently, I am pursuing a **Bachelor's degree in Science and Technology** with an emphasis on **Applied Computing**.
 
 ## 🛠️ Technologies and Tools
 
