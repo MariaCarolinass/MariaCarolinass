@@ -1,4 +1,4 @@
-## Hi there, I'm Carol! 👋
+## Hi there, I'm Carol! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" style="max-width:100%;">
 
 ### Welcome to my GitHub profile! 👩‍💻
 
