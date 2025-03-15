@@ -7,7 +7,7 @@
 - 🚀 I'm Civic Innovation Ambassador (OKBR)
 - 📊 I'm open data speaker 
 - 💻 I'm maintainer of the Dados Livres community
-- 🌐 I was a participant in the Youth Brazil Internet Governance Program Program (CGI.br/NIC.br)
+- 🌐 I was a participant in the Youth Brazil Internet Governance Program (CGI.br/NIC.br)
 - Interests: 🤖 artificial intelligence, 📊 data science, 🌐 web development and ⚙️ back-end development
 
 ### Connect with me
