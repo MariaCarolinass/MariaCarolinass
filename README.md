@@ -10,12 +10,8 @@ Passionate about Civic Technologies, Open Data, and Free Software. Served as an 
 
 Committed to combining technology with social impact.
 
----
-
 ## Find Me Online
 
 - 🌐 Portfolio: [carolinasoares.dev](https://carolinasoares.dev/)
 - 💼 LinkedIn: [linkedin.com/in/carolinasoaresm](https://linkedin.com/in/carolinasoaresm)
 - 📬 Email: mcarolinasoares0@gmail.com
-
----
