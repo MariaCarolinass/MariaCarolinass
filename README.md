@@ -1,17 +1,9 @@
-# 👋 Hello! I'm Carolina Soares
+# Hi there 👋, I'm Carol
 
-Developer with 4 years of experience in Java, working on Smart Cities solutions, Artificial Intelligence, IoT, and Open Data. Also experienced with Python and Node.js.
+I'm a Software Developer with experience in **Java, Python, and Node.js**, building solutions in areas like **Smart Cities, AI, IoT**, and **Open Data**.  
 
-Contributed to geospatial data visualization in a project that processes over 227 geometric layers in an urban management platform, as well as a system handling 60,000+ km of 2D seismic lines and 10,000 km² of 3D data for the National Petroleum Agency.
+I enjoy **learning, sharing knowledge, and creating innovative software** that makes a positive impact. Passionate about **APIs, microservices, Docker**, and managing data with **relational and NoSQL databases**.  
 
-Experienced in API development, Docker, and managing relational and NoSQL databases such as PostgreSQL/PostGIS and MongoDB.
+🌱 Currently exploring new technologies, contributing to **open source**, and connecting tech with social impact.  
 
-Passionate about Civic Technologies, Open Data, and Free Software. Served as an ambassador at OKBR, organizing Open Data Day Natal 2025, and is a maintainer of the Dados Livres community with over 160 collaborators.
-
-Committed to combining technology with social impact.
-
-## Find Me Online
-
-- 🌐 Portfolio: [carolinasoares.dev](https://carolinasoares.dev/)
-- 💼 LinkedIn: [linkedin.com/in/carolinasoaresm](https://linkedin.com/in/carolinasoaresm)
-- 📬 Email: mcarolinasoares0@gmail.com
+💬 Always open to collaboration, learning, and building projects together!
