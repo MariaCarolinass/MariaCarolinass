@@ -16,7 +16,7 @@ I share knowledge through talks, technical content, and community involvement.
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: [carolinasoaresm](https://www.linkedin.com/in/carolinasoaresm/)]
+* 💼 LinkedIn: [carolinasoaresm](https://www.linkedin.com/in/carolinasoaresm/)
 * 📧 Email: [mcarolinasoares0@gmail.com](mailto:mcarolinasoares0@gmail.com)
 
 ⭐ Always open to interesting projects, collaborations, and ideas.
