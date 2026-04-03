@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Maria Carolina
 
-**Software Engineer building APIs, data-driven systems, and automation for real-world problems.**
-
-## 🚀 About Me
-
 I design and build software solutions that connect data, systems, and real-world needs.
 
 My work focuses on:
