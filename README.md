@@ -1,9 +1,26 @@
-# Hi there 👋, I'm Carol
+# 👋 Hi, I'm Maria Carolina
 
-I'm a Software Developer with experience in **Java, Python, and Node.js**, building solutions in areas like **Smart Cities, AI, IoT**, and **Open Data**.  
+**Software Engineer building APIs, data-driven systems, and automation for real-world problems.**
 
-I enjoy **learning, sharing knowledge, and creating innovative software** that makes a positive impact. Passionate about **APIs, microservices, Docker**, and managing data with **relational and NoSQL databases**.  
+## 🚀 About Me
 
-🌱 Currently exploring new technologies, contributing to **open source**, and connecting tech with social impact.  
+I design and build software solutions that connect data, systems, and real-world needs.
 
-💬 Always open to collaboration, learning, and building projects together!
+My work focuses on:
+
+* Building scalable systems and APIs
+* Working with data-driven applications
+* Automating processes and solving practical problems
+
+I’m especially interested in projects that create real impact from urban systems to data-driven decision making.
+
+## 🎤 Beyond Code
+
+I share knowledge through talks, technical content, and community involvement.
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: [carolinasoaresm](https://www.linkedin.com/in/carolinasoaresm/)]
+* 📧 Email: [mcarolinasoares0@gmail.com](mailto:mcarolinasoares0@gmail.com)
+
+⭐ Always open to interesting projects, collaborations, and ideas.
