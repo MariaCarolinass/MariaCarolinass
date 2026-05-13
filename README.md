@@ -1,22 +1,48 @@
-# 👋 Hi, I'm Maria Carolina
+# Hi, I'm Carol
 
-I design and build software solutions that connect data, systems, and real-world needs.
+Software Developer focused on backend, data, automation, and AI.
 
-My work focuses on:
+I build scalable systems with a practical mindset, working across open data, open source, geospatial solutions, smart cities, and applied machine learning.
 
-* Building scalable systems and APIs
-* Working with data-driven applications
-* Automating processes and solving practical problems
+## What I write about
 
-I’m especially interested in projects that create real impact from urban systems to data-driven decision making.
+- Software engineering
+- Python
+- Backend development
+- Data analysis and automation
+- Artificial intelligence and LLMs
+- Open source and free software
+- Technical documentation
 
-## 🎤 Beyond Code
+## What I do
 
-I share knowledge through talks, technical content, and community involvement.
+- Design and build software systems
+- Work with data-driven solutions
+- Automate repetitive processes
+- Explore practical AI applications
+- Share tutorials, articles, and talks
 
-## 📫 Connect with Me
+## Featured content
 
-* 💼 LinkedIn: [carolinasoaresm](https://www.linkedin.com/in/carolinasoaresm/)
-* 📧 Email: [mcarolinasoares0@gmail.com](mailto:mcarolinasoares0@gmail.com)
+- Blog posts
+- Tutorials
+- Projects
+- Talks
 
-⭐ Always open to interesting projects, collaborations, and ideas.
+## Tech interests
+
+- Python
+- APIs
+- Data
+- AI
+- Docker
+- Web development
+- Software architecture
+
+## About this profile
+
+This profile reflects my work, interests, and experiments in software development and technology.
+
+## Find me on my blog
+
+[carolinasoares.dev](https://carolinasoares.dev)
