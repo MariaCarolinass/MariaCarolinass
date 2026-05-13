@@ -4,15 +4,6 @@ Software Developer focused on backend, data, automation, and AI.
 
 I build scalable systems with a practical mindset, working across open data, open source, geospatial solutions, smart cities, and applied machine learning.
 
-## What I write about
-
-- Software engineering
-- Backend development
-- Data analysis and automation
-- Artificial intelligence and LLMs
-- Open source and free software
-- Technical documentation
-
 ## What I do
 
 - Design and build software systems
@@ -21,12 +12,14 @@ I build scalable systems with a practical mindset, working across open data, ope
 - Explore practical AI applications
 - Share tutorials, articles, and talks
 
-## Featured content
+## What I write about
 
-- Blog posts
-- Tutorials
-- Projects
-- Talks
+- Software engineering
+- Backend development
+- Data analysis and automation
+- Artificial intelligence and LLMs
+- Open source and free software
+- Technical documentation
 
 ## Tech interests
 
