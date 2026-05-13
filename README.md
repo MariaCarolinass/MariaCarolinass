@@ -7,7 +7,6 @@ I build scalable systems with a practical mindset, working across open data, ope
 ## What I write about
 
 - Software engineering
-- Python
 - Backend development
 - Data analysis and automation
 - Artificial intelligence and LLMs
@@ -31,11 +30,8 @@ I build scalable systems with a practical mindset, working across open data, ope
 
 ## Tech interests
 
-- Python
-- APIs
-- Data
-- AI
-- Docker
+- Python, Java, JavaScript, Go, C/C++
+- APIs, Data, AI, Docker
 - Web development
 - Software architecture
 
